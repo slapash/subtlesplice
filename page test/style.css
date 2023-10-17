@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif; /* Choose a modern font */
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    min-height: 100vh; /* Ensure the page takes at least the full viewport height */
+}
+
+article {
+    max-width: 800px; /* Set a maximum width for the article */
+    padding: 20px; /* Add some padding for spacing */
+    text-align: justify; /* Justify text for a modern look */
+}
+
+h2, h3 {
+    text-align: center; /* Center headings */
+}
+
+p {
+    margin-bottom: 20px; /* Add spacing between paragraphs */
+    
+}
